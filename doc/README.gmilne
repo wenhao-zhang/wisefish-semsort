@@ -1,0 +1,8 @@
+For the project I wrote the data formatting scripts for the preprocessing of training data for the RNN. 
+* I trained and tested the RNN.  
+* I wrote the basic semantic sorting and the vote semantic sorting funcitons. 
+* I wrote the SemSort single and multipath algorithms.
+* I tested the SemSort, summarization, and semantic analysis algorithms
+* I wrote the docutmentaiton sections Experiment 2, SemSort, and anythign else concerning the Nerual Network.  
+* I developed and carried out the input data experiments for the nerual net.
+* I helped create the poster by filling the Introduciton, Sentiment analysis and SemSort Sections and created the diagram of the pipeline

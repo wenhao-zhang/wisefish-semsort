@@ -1,0 +1,4 @@
+- Helped obtain some datasets and understanding their content
+- Created a script to help apply our pipeline to full Yelp dataset (run.py)
+- Made several attempts at parallelizing processing before deciding to restrict to smaller subset of data
+- Helped out with some documentation in poster and notebook
